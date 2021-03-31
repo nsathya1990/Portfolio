@@ -5,3 +5,6 @@
 -   Pexels
     For Images
     https://www.pexels.com/
+
+-   Icons
+    https://icons8.com/
