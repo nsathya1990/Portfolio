@@ -15,3 +15,6 @@
 
 - https://flatuicolors.com/
     For palette selection
+
+- https://owlcarousel2.github.io/OwlCarousel2/
+    For Carousel
