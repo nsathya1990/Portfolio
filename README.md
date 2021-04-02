@@ -21,3 +21,6 @@
 
 -   https://github.com/rendro/easy-pie-chart
     Plugin for Pie Chart
+
+-   https://fontawesome.com/account/cdn
+    Fontawesome
