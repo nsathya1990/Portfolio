@@ -50,4 +50,11 @@ $(document).ready(function () {
             });
         }
     });
+
+    $('.counter').each(function () {
+        const element = $(this);
+        const endVal = parseInt(element.text());
+
+        element.countup(endVal);
+    });
 });
