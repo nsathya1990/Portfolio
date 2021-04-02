@@ -28,3 +28,6 @@
 -   https://inorganik.github.io/countUp.js/
     CountUp.js
     To quickly create animations that display numerical data in a more interesting way.
+
+-   https://isotope.metafizzy.co/
+    Plugin for filtering and sorting layouts
