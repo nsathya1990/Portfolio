@@ -102,3 +102,12 @@ body {
 .chart .percent:after {
     content: '%';
 }
+
+.owl-nav {
+    text-align: center;
+    font-size: 30px;
+}
+
+.owl-nav button {
+    margin: 0 2%;
+}
