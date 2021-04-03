@@ -1,3 +1,7 @@
+# List of Dependencies
+
+## List of CDNs used
+
 -   Superslides
     Superslides is a full screen, hardware accelerated slider for jQuery.
     https://github.com/nicinabox/superslides
@@ -29,5 +33,7 @@
     CountUp.js
     To quickly create animations that display numerical data in a more interesting way.
 
--   https://isotope.metafizzy.co/
+### Isotope
+
+    https://isotope.metafizzy.co/
     Plugin for filtering and sorting layouts
