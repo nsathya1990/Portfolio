@@ -29,11 +29,12 @@
 -   https://fontawesome.com/account/cdn
     Fontawesome
 
+### CountUp.js
+
 -   https://inorganik.github.io/countUp.js/
-    CountUp.js
     To quickly create animations that display numerical data in a more interesting way.
 
 ### Isotope
 
-    https://isotope.metafizzy.co/
+-   https://isotope.metafizzy.co/
     Plugin for filtering and sorting layouts
