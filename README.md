@@ -1,5 +1,33 @@
 # List of Dependencies
 
+## CDNs used
+
+### Bootstrap
+
+https://getbootstrap.com/
+
+For responsive, mobile-first front-end web development.
+
+### Fancybox
+
+http://fancyapps.com/fancybox/3/
+
+A tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page.
+
+### Fontawesome
+
+https://fontawesome.com/account/cdn
+
+A font and icon toolkit based on CSS and Less.
+
+### Isotope
+
+https://isotope.metafizzy.co/
+
+Plugin for filtering and sorting layouts
+
+## Packages Downloaded
+
 ### CountUp.js
 
 https://inorganik.github.io/countUp.js/
@@ -45,23 +73,3 @@ Images for the superslides are used from here.
 https://flatuicolors.com/
 
 For palette selection
-
-# List of CDNs used
-
-### Fancybox
-
-http://fancyapps.com/fancybox/3/
-
-A tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page.
-
-### Fontawesome
-
-https://fontawesome.com/account/cdn
-
-A font and icon toolkit based on CSS and Less.
-
-### Isotope
-
-https://isotope.metafizzy.co/
-
-Plugin for filtering and sorting layouts
