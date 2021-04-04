@@ -1,4 +1,4 @@
-## List of Dependencies
+# List of Dependencies
 
 ### CountUp.js
 
@@ -22,7 +22,13 @@ https://github.com/rendro/easy-pie-chart
 
 Plugin for Pie Chart
 
-## List of CDNs used
+### Typed.js
+
+https://github.com/mattboldt/typed.js/
+
+Typed.js is a library that types. We enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.
+
+# List of CDNs used
 
 ### Fancybox
 
@@ -36,10 +42,6 @@ A tool for displaying images, html content and multi-media in a Mac-style "light
 
 -   Icons
     https://icons8.com/
-
--   typed.js
-    https://github.com/mattboldt/typed.js/
-    Typed.js is a library that types. We enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.
 
 -   https://flatuicolors.com/
     For palette selection
