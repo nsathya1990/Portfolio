@@ -2,7 +2,7 @@ $(document).ready(function () {
     $('#slides').superslides({
         animation: 'fade',
         play: 5000,
-        pagination: false,
+        pagination: false
     });
 
     const typed = new Typed('.typed', {
@@ -10,7 +10,7 @@ $(document).ready(function () {
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
-        showCursor: false,
+        showCursor: false
     });
 
     $('.owl-carousel').owlCarousel({
@@ -19,18 +19,18 @@ $(document).ready(function () {
         nav: true,
         responsive: {
             0: {
-                items: 1,
+                items: 1
             },
             480: {
-                items: 2,
+                items: 2
             },
             768: {
-                items: 3,
+                items: 3
             },
             938: {
-                items: 4,
-            },
-        },
+                items: 4
+            }
+        }
     });
 
     const skillsTopOffset = $('.skillsSection').offset().top;
@@ -48,7 +48,7 @@ $(document).ready(function () {
                 size: 152,
                 onStep: function (from, to, percent) {
                     $(this.el).find('.percent').text(Math.round(percent));
-                },
+                }
             });
         }
 
@@ -62,4 +62,6 @@ $(document).ready(function () {
             countUpFinished = true;
         }
     });
+
+    $('[data-fancybox]').fancybox();
 });

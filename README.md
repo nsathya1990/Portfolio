@@ -3,14 +3,29 @@
 ### CountUp.js
 
 https://inorganik.github.io/countUp.js/
+
 To quickly create animations that display numerical data in a more interesting way.
 
 ### Superslides
 
 https://github.com/nicinabox/superslides
+
 Superslides is a full screen, hardware accelerated slider for jQuery.
 
+### Easy Pie Chart
+
+https://github.com/rendro/easy-pie-chart
+
+Plugin for Pie Chart
+
+
 ## List of CDNs used
+
+### Fancybox
+
+http://fancyapps.com/fancybox/3/
+
+A tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page.
 
 -   Pexels
     For Images
@@ -29,8 +44,7 @@ Superslides is a full screen, hardware accelerated slider for jQuery.
 -   https://owlcarousel2.github.io/OwlCarousel2/
     Plugin for Carousel
 
--   https://github.com/rendro/easy-pie-chart
-    Plugin for Pie Chart
+-
 
 ### Fontawesome
 
