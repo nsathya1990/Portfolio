@@ -3,14 +3,14 @@
 ### CountUp.js
 
 https://inorganik.github.io/countUp.js/
-
 To quickly create animations that display numerical data in a more interesting way.
 
-## List of CDNs used
+### Superslides
 
--   Superslides
-    Superslides is a full screen, hardware accelerated slider for jQuery.
-    https://github.com/nicinabox/superslides
+https://github.com/nicinabox/superslides
+Superslides is a full screen, hardware accelerated slider for jQuery.
+
+## List of CDNs used
 
 -   Pexels
     For Images
@@ -38,5 +38,6 @@ To quickly create animations that display numerical data in a more interesting w
 
 ### Isotope
 
--   https://isotope.metafizzy.co/
-    Plugin for filtering and sorting layouts
+https://isotope.metafizzy.co/
+
+Plugin for filtering and sorting layouts
