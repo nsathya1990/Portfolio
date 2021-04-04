@@ -64,6 +64,12 @@ https://icons8.com/
 
 Next and previous icons for the superslides are used from here.
 
+### Icons8 Preloaders
+
+https://icons8.com/preloaders/
+
+Loading, waiting and spinning animations
+
 ### Pexels
 
 https://www.pexels.com/
