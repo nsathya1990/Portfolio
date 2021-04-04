@@ -6,6 +6,10 @@ https://inorganik.github.io/countUp.js/
 
 To quickly create animations that display numerical data in a more interesting way.
 
+### Carousel Plugin
+
+https://owlcarousel2.github.io/OwlCarousel2/
+
 ### Superslides
 
 https://github.com/nicinabox/superslides
@@ -17,7 +21,6 @@ Superslides is a full screen, hardware accelerated slider for jQuery.
 https://github.com/rendro/easy-pie-chart
 
 Plugin for Pie Chart
-
 
 ## List of CDNs used
 
@@ -41,14 +44,9 @@ A tool for displaying images, html content and multi-media in a Mac-style "light
 -   https://flatuicolors.com/
     For palette selection
 
--   https://owlcarousel2.github.io/OwlCarousel2/
-    Plugin for Carousel
-
--
-
 ### Fontawesome
 
--   https://fontawesome.com/account/cdn
+https://fontawesome.com/account/cdn
 
 ### Isotope
 
