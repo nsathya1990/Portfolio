@@ -396,6 +396,12 @@ body {
     background-color: #e74c3c;
     position: relative;
     display: inline-block;
+
+    -transition: all 0.2s linear, 0.3s;
+    -webkit-transition: all 0.2s linear, 0.3s;
+    -moz-transition: all 0.2s linear, 0.3s;
+    -o-transition: all 0.2s linear, 0.3s;
+    -ms-transition: all 0.2s linear, 0.3s;
 }
 
 .items .imageOverlay {
@@ -416,4 +422,30 @@ body {
 
 .items .item:hover .imageOverlay {
     opacity: 1;
+}
+
+.items .openButton {
+    float: left;
+    left: -200px;
+}
+
+.items .projectLink {
+    float: right;
+    right: -200px;
+}
+
+.items .repositoryLink {
+    top: 200px;
+}
+
+.items .item:hover .openButton {
+    left: 0px;
+}
+
+.items .item:hover .projectLink {
+    right: 0px;
+}
+
+.items .item:hover .repositoryLink {
+    top: 0px;
 }
