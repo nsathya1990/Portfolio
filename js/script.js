@@ -97,13 +97,13 @@ $(document).ready(function () {
         return false;
     });
 
-    $('#navigation li a').click(function (e) {
+    /* $('#navigation li a').click(function (e) {
         e.preventDefault();
 
         const targetElement = $(this).attr('href');
         const targetPosition = $(targetElement).offset().top;
         $('html, body').animate({ scrollTop: targetPosition - 50 }, 'slow');
-    });
+    }); */
 
     const nav = $('#navigation');
     const navTop = nav.offset().top;
