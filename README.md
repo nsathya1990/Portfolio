@@ -32,7 +32,13 @@ Typed.js is a library that types. We enter in any string, and watch it type at t
 
 https://icons8.com/
 
-Next and previous icons for the superslides were used from here.
+Next and previous icons for the superslides are used from here.
+
+### Pexels
+
+https://www.pexels.com/
+
+Images for the superslides are used from here.
 
 # List of CDNs used
 
@@ -41,13 +47,6 @@ Next and previous icons for the superslides were used from here.
 http://fancyapps.com/fancybox/3/
 
 A tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page.
-
--   Pexels
-    For Images
-    https://www.pexels.com/
-
--   https://flatuicolors.com/
-    For palette selection
 
 ### Fontawesome
 
@@ -60,3 +59,9 @@ A font and icon toolkit based on CSS and Less.
 https://isotope.metafizzy.co/
 
 Plugin for filtering and sorting layouts
+
+
+
+
+-   https://flatuicolors.com/
+    For palette selection
