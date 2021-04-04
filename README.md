@@ -1,4 +1,10 @@
-# List of Dependencies
+## List of Dependencies
+
+### CountUp.js
+
+https://inorganik.github.io/countUp.js/
+
+To quickly create animations that display numerical data in a more interesting way.
 
 ## List of CDNs used
 
@@ -26,13 +32,9 @@
 -   https://github.com/rendro/easy-pie-chart
     Plugin for Pie Chart
 
+### Fontawesome
+
 -   https://fontawesome.com/account/cdn
-    Fontawesome
-
-### CountUp.js
-
--   https://inorganik.github.io/countUp.js/
-    To quickly create animations that display numerical data in a more interesting way.
 
 ### Isotope
 
