@@ -40,6 +40,12 @@ https://www.pexels.com/
 
 Images for the superslides are used from here.
 
+### Flat UI Colors
+
+https://flatuicolors.com/
+
+For palette selection
+
 # List of CDNs used
 
 ### Fancybox
@@ -59,9 +65,3 @@ A font and icon toolkit based on CSS and Less.
 https://isotope.metafizzy.co/
 
 Plugin for filtering and sorting layouts
-
-
-
-
--   https://flatuicolors.com/
-    For palette selection
